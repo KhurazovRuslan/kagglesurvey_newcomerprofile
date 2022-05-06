@@ -1,7 +1,7 @@
 <h1>Kaggle surveys. Beginer's profile.</h1>
 
 
-This is analysis of 2019 and 2021 Kaggle surveys that's focused on data science and machine learning beginner's profile and how it changed over a 2-year period. This project also tries to answer how owner of the project fits into that profile. Dount charts are chosen as graphs for the project.
+This is analysis of 2019 and 2021 Kaggle surveys that's focused on data science and machine learning beginner's profile and how it changed over a 2-year period. This project also tries to answer how owner of the project fits into that profile. Dount charts are chosen as graphs for the project. The results of the project are described in <a href='https://khurazovruslan.medium.com/what-do-kaggle-surveys-say-about-beginners-9c62a0f60544'>this article</a>.
 
 
 <h2>Data:</h2>
@@ -24,7 +24,7 @@ This is analysis of 2019 and 2021 Kaggle surveys that's focused on data science 
 
 
 <h2></h2>
-<div>As a result of this project a report was created showing ds and ml beginner's main characteristics and how they changed over a 2-year period. A question of project's author's suitability into the beginner's profile was also explained.</div>
+<div>As a result of this project a <a href='https://khurazovruslan.medium.com/what-do-kaggle-surveys-say-about-beginners-9c62a0f60544'>report</a> was created showing ds and ml beginner's main characteristics and how they changed over a 2-year period. A question of project's author's suitability into the beginner's profile was also explained.</div>
 
 
 <h2>Thanks to:</h2>
